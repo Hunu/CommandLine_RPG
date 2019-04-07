@@ -91,6 +91,7 @@ class FormattedText:
         self.a.out(text)
         self.a.reset()
 
+    # TODO: other format
 
 # playground
 if __name__ == "__main__":
